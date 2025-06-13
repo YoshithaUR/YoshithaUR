@@ -1,1 +1,2 @@
-# 💻 I am GAY
+# 💻 I am Software Developer
+
